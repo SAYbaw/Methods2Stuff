@@ -37,12 +37,14 @@ public class SimpleCalc {
 	public static void divide () {// change return type, add parameters
 		//validate code to prevent divide by 0 in getInput()	
 	}
-	public static void percent () {// change return type, add parameters
+	public static void percentTtl () {// change return type, add parameters
+		// part/total X 100/1 How would you write that formula in Java?
 			
 	}
-	public static double power (double x, double y) {
+	public static double power (double x, double y) {// think x ^ y like on a calculator
+		//Why would we initialize answer to 1 here? What would happen if it was 0?
 		double answer = 1.0;
-		//hint use a for loop
+		//hint: use a for loop
 		
 		return answer;
 	}

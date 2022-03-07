@@ -5,7 +5,7 @@ public class SimpleCalc {
 
 	public static void main(String[] args) {
 		
-		//call getImput() here
+		//call getInput() here
 		
 
 	}
@@ -26,21 +26,21 @@ public class SimpleCalc {
 		return n1 + n1;
 	}
 	
-	public static void subtraction (){// change return value, add parameters
+	public static void subtraction (){// change return type, add parameters
 		
 	}
 	
-	public static void multiply () {// change return value, add parameters
+	public static void multiply () {// change return type, add parameters
 		
 	}
 	
-	public static void divide () {// change return value, add parameters
+	public static void divide () {// change return type, add parameters
 		//validate code to prevent divide by 0 in getInput()	
 	}
-	public static void percent () {// change return value, add parameters
+	public static void percent () {// change return type, add parameters
 			
 	}
-	public static double power (double x, double y) {// change return value, add parameters
+	public static double power (double x, double y) {
 		double answer = 1.0;
 		//hint use a for loop
 		
